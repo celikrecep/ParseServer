@@ -1,0 +1,7 @@
+#Mon Sep 11 23:06:35 EEST 2017
+base.0=/Users/loyer/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8dae5e99a883848db36314585bd8bd596ff4cab6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/loyer/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d281c17be4d1fd2b4a4dfe2c52a4879ec7657ef5/classes.dex
+base.1=/Users/loyer/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d281c17be4d1fd2b4a4dfe2c52a4879ec7657ef5
+file.0=/Users/loyer/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8dae5e99a883848db36314585bd8bd596ff4cab6/classes.dex
